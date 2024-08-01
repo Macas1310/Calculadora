@@ -73,10 +73,10 @@
         cursor: pointer;
         transition: all 200ms ease;
     }
-    button:hover {
-        transform: scale(1.1);
-        height: 130px; 
-    }
+    /* button:hover {
+        /* transform: scale(1.1);
+        height: 130px;  */
+    
     .calculator.dark {
         background-color: #071115;
     }
